@@ -4,3 +4,5 @@ Abstraction Layer child of generic Channel
 Dependencies in:
 
 https://github.com/Andergongar/Generic-Channel
+
+Use Install_Dependences.bat
